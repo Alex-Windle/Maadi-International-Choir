@@ -1,0 +1,219 @@
+
+
+#FBContactLinks {
+	max-width:1100;
+	text-align:left;
+	font-size:.95em; 
+	margin-top:30px;   
+}
+
+#FBContactLinks li {
+	list-style:none;
+	padding: 6px 0px 0 0px;
+	margin-right:40px;
+}
+
+#FBContactLinks li a {
+	text-decoration:none;
+}
+
+a:link {
+	color: black;
+}
+
+a:visited {
+	color:black;
+}
+
+a:hover {
+	font-weight:bolder;
+}
+
+
+body {
+	
+	padding: auto;
+	background-image: url("http://i.imgur.com/SKCN0yk.jpg");
+	background-size: inherit;
+	background-repeat: no-repeat;
+
+}
+
+#page-wrap {
+	width:980px;
+	margin: 0 auto;
+}
+
+h2 {
+	font-size:2.2em;
+	font-family: 'Nunito', sans-serif;
+	font-weight:lighter;
+	letter-spacing: 3.5px;
+	margin: 0 0 15px 0;
+	clear:both;
+}
+
+h3 {
+	font-size:1.507em;
+	font-family: 'Nunito', sans-serif;
+	font-weight:lighter;
+	letter-spacing: 1.3px;
+}
+
+/*NAV SECTION*/
+
+#nav {
+	width:100%;
+	text-align:center;
+	margin: 0 0 0 0;
+	padding: 0px 0 25px 0;
+}
+
+#nav ul {
+	margin: 0 auto;
+	padding:0;
+}
+
+#nav li {
+	font-family: 'Nunito', sans-serif;
+	font-weight:lighter;
+	display: inline-block;
+	padding-right: 40px;
+	padding-left: 40px;
+	font-size:1.001em;
+}
+
+#About {
+	margin-top:0;
+	margin-right:auto;
+	margin-bottom:5%;
+	margin-left:auto;
+}
+
+#About li {
+	display:inline-block;
+	float: left;
+	width:48%;
+	margin: 1% 1% 1% 1%;
+	padding-bottom:0;
+}
+
+
+#About li p {
+	font-size:1.166em;
+	text-align: justify;
+}
+
+#About li p em {
+
+	font-size: 0.815em;
+}
+
+#About ul li img {
+	padding-top:22px;
+}
+
+
+#UpcomingEvents {
+
+	margin-top:31%;
+	margin-right:auto;
+	margin-bottom:2%;
+	margin-left:auto;
+}
+
+#UpcomingEvents li {
+	display:inline-block;
+	float: right;
+	width:48%;
+	margin: 1% 1% 1% 1%;
+}
+
+#UpcomingEvents li p {
+
+	font-size:1.166em;
+	text-align: justify;
+	padding-bottom:1%;
+}
+
+#UpcomingEvents li h3 {
+
+	padding-top:0;
+}
+
+#UpcomingEvents li p em {
+
+	font-size: 0.815em;
+}
+
+/*#JoinUs {
+
+	margin-right:auto;
+	margin-bottom:2%;
+	margin-left:auto;
+	padding-top:27%;
+
+}*/
+
+#JoinUs {
+	margin: 0 auto 5% auto;
+	padding: 0 0 0 0;
+}
+
+#JoinUs li {
+	display:inline-block;
+	float:left;
+	width:48%;
+	margin:1% 1% 1% 1%;
+	padding-bottom:0;
+}
+
+#JoinUs li h3 {
+	padding-top:0%;
+}
+
+#JoinUs li p {
+	font-size:1.166em;
+	text-align: justify;
+	
+}
+
+#JoinUs li p em {
+	font-size:0.815em;
+}
+
+#JoinUs li img {
+	padding-top:10px;
+}
+
+#copyright ul {
+	list-style:none;
+}
+
+#copyright {
+	font-family: 'Nunito', sans-serif;
+	font-weight:lighter;
+	font-size:0.913em;
+	padding: 55px 0 15px 0;
+	text-align:center;
+	color: #a9a9a9;
+	font-size:0.815em;
+	clear:both;
+}
+
+#copyright ul li {
+	padding: 0 0 10px 0;
+}
+
+
+/*Header*/
+
+header h1 {
+	text-align:center;
+}
+
+/*Body*/
+
+h2 {
+	text-align:center;
+}
